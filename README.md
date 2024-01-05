@@ -7,4 +7,4 @@ This cross-cutting and interdisciplinary graduate course, taught jointly between
 
 Legal concepts explored will include evidence and expert witnesses, anti-discrimination law concepts of disparate impact and disparate treatment, regulation of civic data gathering activities like the census, sectoral information privacy regimes, and public access and transparency laws. Computational concepts explored will include basics of modeling and automation, software design and development, artificial intelligence and machine learning, and privacy-enhancing technologies.
 
-For more, please see the Syllabus and Reading List.
+For more, please see the [Syllabus](Law-and-Algorithms/Syllabus.pdf) and Reading List.
