@@ -17,7 +17,7 @@ For the full syllabus, [see here](Syllabus.pdf).
 
 #### Intro to Law
 
-- Andrew Sellars, _A Practical Introduction to United States Law for Technologists_ (2023)
+- Andrew Sellars, [_A Practical Introduction to United States Law for Technologists_](SellarsPracticalIntro.pdf) (2023)
   - Law students skim; CDS students read Introduction and "The 'Common Law' System in the United States" (pp. 1–14), skim rest
 
 #### The Social Construction of Data and Classification
