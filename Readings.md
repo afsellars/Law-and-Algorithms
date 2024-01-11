@@ -10,7 +10,9 @@ For the full syllabus, [see here](Syllabus.pdf).
 
 <details open>
   <Summary>1. Intro to Modeling and Automation (Jan. 18)</Summary>
-Intro to Algorithms
+
+  Intro to Algorithms
+  
   - Brandeis Hall Marshall, “Computational Thinking in Practice,” from _Data Conscience_ (2023) (circulated separately)
     - CDS students skim; Law students read from beginning, stopping at “Code Cloning” (pp. 87–97)
 
