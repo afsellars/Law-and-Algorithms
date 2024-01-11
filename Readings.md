@@ -44,7 +44,6 @@ For the full syllabus, [see here](Syllabus.pdf).
 - Tal Zarsky, [_The Trouble With Algorithmic Decisions_](https://www-jstor-org.ezproxy.bu.edu/stable/pdf/43671285.pdf?refreqid=excelsior%3A2a5553e4865160053cf0c7c22be43dc6), 41 Science, Technology, & Human Values 118 (2016)
 - David Aurebach, [_The Stupidity of Computers_](https://www.nplusonemag.com/issue-13/essays/stupidity-of-computers/), n+1 (2012)
 - Langdon Winner, [_Do Artifacts Have Politics?_](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf), 109 Daedalus 121 (1980)
-</details>
 
 #### 2. Automation Bias vs. Non-Automation Bias (Jan. 25)
 
