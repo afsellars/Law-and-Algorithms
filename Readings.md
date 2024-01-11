@@ -7,21 +7,18 @@ Please note that the readings in this course are highly likely to change over th
 For the full syllabus, [see here](Syllabus.pdf).
 
 ### Modeling and Automation
+
 <details open>
   <Summary>1. Intro to Modeling and Automation (Jan. 18)</Summary>
-  
-#### Intro to Algorithms
-  
+Intro to Algorithms
   - Brandeis Hall Marshall, “Computational Thinking in Practice,” from _Data Conscience_ (2023) (circulated separately)
     - CDS students skim; Law students read from beginning, stopping at “Code Cloning” (pp. 87–97)
 
-#### Intro to Law
-
+Intro to Law
 - Andrew Sellars, [_A Practical Introduction to United States Law for Technologists_](SellarsPracticalIntro.pdf) (2023)
   - Law students skim; CDS students read Introduction and "The 'Common Law' System in the United States" (pp. 1–14), skim rest
 
-#### The Social Construction of Data and Classification
-
+The Social Construction of Data and Classification
 - Sarah T. Roberts, “Your AI is a Human,” in _Your Computer is on Fire_ (2021) (circulated separately)
   - read from beginning to end of “The Case of Commercial Content Moderation…” and from “Humans and AI in Symbiosis and Conflict” to end (pp. 51–58, 64–67) 
 - Anne L. Washington, “Source: Data are People, Too,” in _Ethical Data Science_ (2023) (circulated separately)
@@ -29,19 +26,18 @@ For the full syllabus, [see here](Syllabus.pdf).
 - Geoffrey C. Bowker & Susan Leigh Star, "Introduction: To Classify is Human," in _Sorting Things Out_ (2000) (circulated separately)
   - read beginning of “Introduction: To Classify is Human,” stopping at “Investigating Infrastructure” (pp. 1–8)
 
-#### What is Gained and What is Lost as Law Becomes Computational
- 
+What is Gained and What is Lost as Law Becomes Computational
 - Joel Reidenberg, [_Lex Informatica: The Formulation of Policy Rules through Technology_](https://ir.lawnet.fordham.edu/faculty_scholarship/42/), 76 Tex. L. Rev. 553 (1997)
   - read Part IV (pp. 576–86) only
 - Ari Ezra Waldman, [_Power, Process, and Automated Decision-Making_](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5633&context=flr), 88 Fordham L. Rev. 613 (2019)
   - read read Section I (pp. 616–22) only
 
-#### Who is Centered
+Who is Centered
 
 - Catherine D’Ignazio and Lauren F. Klein, [“The Power Chapter,”](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4) from _Data Feminism_ (2020)
   - read ["Data Science by Whom?"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7#data-science-by-whom) and ["Data Science for Whom?"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7#data-science-for-whom) only 
 
-#### Optional Reading
+Optional Reading
 - [_Guidance About How to Cover Artificial Intelligence_](https://www-apstylebook-com.ezproxy.bu.edu/boston-university-a7b40399-4032-42ea-9f9d-cb5ba7fe6946/ap_stylebook/artificial-intelligence-2), Associated Press Stylebook (2023)
 - Dave Karpf, [_Why Can’t Our Tech Billionaires Learn Anything New?_](https://davekarpf.substack.com/p/why-cant-our-tech-billionaires-learn) (2023)
 - Kristian Lum & Rumman Chowdhury, [_What is an “Algorithm?” It Depends Whom You Ask_](https://www.technologyreview.com/2021/02/26/1020007/what-is-an-algorithm/), MIT Tech. Review (Feb. 26, 2021)
@@ -53,25 +49,25 @@ For the full syllabus, [see here](Syllabus.pdf).
 <details>
   <Summary>2. Automation Bias vs. Non-Automation Bias (Jan. 25)</Summary>
 
-#### Law's Trouble with Numbers
+Law's Trouble with Numbers
   - Edward K. Cheng, [_Fighting Legal Innumeracy_](http://www.greenbag.org/v17n3/v17n3_articles_cheng.pdf), 17 Green Bag 2d 271 (2014)
     - read sections I and II (pp. 271–76) only.
 
-#### To Model or Not To Model: The Case of Sentencing Guidelines
+To Model or Not To Model: The Case of Sentencing Guidelines
   - Wendy Nelson Espeland & Berit Irene Vannebo, [_Accountability, Quantification, and Law_](https://www-annualreviews-org.ezproxy.bu.edu/doi/10.1146/annurev.lawsocsci.2.081805.105908), 3 Ann. Rev. L. & Social Sci. 21 (2007)
     - read “Federal Sentencing Guidelines” through the end of “Quantification in the Guidelines Approach” (pp. 25–33) 
 
-#### "Automation Bias"
+"Automation Bias"
   - Danielle Keats Citron, [_Technological Due Process_](https://openscholarship.wustl.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1166&context=law_lawreview), 85 Wash. U. L. Rev. 1249 (2008) 
     - read part I(B) only (pp. 1267–77)
 
-#### "Automation Bias" in the Other Direction
+"Automation Bias" in the Other Direction
 - Christopher Robertson, [_Robophobia in Medicine_](https://www.youtube.com/watch?v=jriC_BSnyz4&list=PLr-itzg5tymNefUaQWhcnBoAL0OZNqWSD&index=5) 
   - watch all
 - S Mo Jones-Jang & Yong Jin Park, [_How do People React to AI Failure? Automation Bias, Algorithmic Aversion, and Perceived Controllability_](https://academic-oup-com.ezproxy.bu.edu/jcmc/article/28/1/zmac029/6827859?login=true&token=), 28 J. of Computer-Mediated Comm’n 1 (2022)
   - read “Literature Review” and “Discussion” (pp. 1–3, 6–7)
 
-#### Where to Put the Humans
+Where to Put the Humans
 - Norman W. Spaulding, “Is Human Judgment Necessary? Artificial Intelligence, Algorithmic Governance, and the Law,” in _The Oxford Handbook of Ethics of AI_ (2020) (circulated separately) 
   - read “Is Human Judgment Necessary?" (pp. 393–401)
 - Rebecca Crootof, Margot Kaminski, & W. Nicholson Price II, [_Humans In the Loop_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4066781), 76 Vand. L. Rev. 429 (2023) 
@@ -81,29 +77,29 @@ For the full syllabus, [see here](Syllabus.pdf).
 <details>
   <Summary>3. Fairness in Automated Systems (Feb. 1)</Summary>
 
-#### Defining Fairness
+Defining Fairness
 - Deborah Hellman, [_What is Discrimination, When is it Wrong, and Why?_](https://www.youtube.com/watch?v=qomsX8ZvvIY&t=226s), Plenary talk at the Conference for Fairness, Accountability, and Transparency (2018) 
   - watch the introduction to the talk (3:46–10:15)
 
-#### Case Study: The COMPAS Algorithm
+Case Study: The COMPAS Algorithm
 - Julia Angwin & Jeff Larson, [_Machine Bias_](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), ProPublica (May 23, 2016)
   - read all
 - [State v. Loomis](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/5.1-state-v-loomis/), 881 N.W.2d 749 (Wisc. 2016)
    - read excerpt
 
-#### The Optimization Paradox
+The Optimization Paradox
 - Julia Angwin & Jeff Larson, [_Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say_](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say), ProPublica (Dec. 30, 2016)
    - read all
 - Karen Hao & Jonathan Stray, [_Can You Make AI Fairer than a Judge? Play Our Courtroom Algorithm Game_](https://www.technologyreview.com/2019/10/17/75285/ai-fairer-than-judge-criminal-risk-assessment-algorithm/), MIT Technology Review (2019)
   - read all, and play with the interactive elements
 
-#### Deeper Rethinking
+Deeper Rethinking
 - Ngozi Okidegbe, [_The Democratizing Potential of Algorithms?_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835370), 53 Conn. L. Rev. 739 (2022)
   - read part III only (pp. 28–39)
 - Chelsea Barabas, [_Beyond Bias: Re-imagining the Terms of “Ethical AI” in Criminal Law_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3377921), 12 Geo. J. L. & Mod. Crit. Race Persp. 83 (2020)
   - read Part VI (pp. 106–11) only
 
-#### Optional Reading
+Optional Reading
 - Sorelle A. Friedler, Carlos Scheidegger, & Suresh Venkatasubramanian, [_The (Im)possibility of Fairness: Different Value Systems Require Different Mechanisms For Fair Decision Making_](https://dl-acm-org.ezproxy.bu.edu/doi/abs/10.1145/3433949), 64 Comm. of the ACM (2021)
 - Jon Kleinberg, Sendhil Mullainathan, and Manish Raghavan, [_Inherent Trade-Offs in the Fair Determination of Risk Scores_](https://drops.dagstuhl.de/storage/00lipics/lipics-vol067-itcs2017/LIPIcs.ITCS.2017.43/LIPIcs.ITCS.2017.43.pdf), 43 ITCS 1 (2017)
 - Ran Canetti, Aloni Cohen, Nishanth Dikkala, Govind Ramnarayan, Sarah Scheffler, and Adam Smith, [_From Soft Classifiers to Hard Decisions: How Fair can we Be?_](https://arxiv.org/abs/1810.02003), FAT* (2019)
