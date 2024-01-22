@@ -66,7 +66,7 @@ For the full syllabus, [see here](Syllabus.pdf).
   - read “Literature Review” and “Discussion” (pp. 1–3, 6–7)
 
 ##### Where to Put the Humans
-- Norman W. Spaulding, “Is Human Judgment Necessary? Artificial Intelligence, Algorithmic Governance, and the Law,” in _The Oxford Handbook of Ethics of AI_ (2020) (circulated separately) 
+- Norman W. Spaulding, [“Is Human Judgment Necessary? Artificial Intelligence, Algorithmic Governance, and the Law,”](https://academic-oup-com.ezproxy.bu.edu/edited-volume/34287/chapter/290666019) in _The Oxford Handbook of Ethics of AI_ (2020)
   - read “Is Human Judgment Necessary?" (pp. 393–401)
 - Rebecca Crootof, Margot Kaminski, & W. Nicholson Price II, [_Humans In the Loop_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4066781), 76 Vand. L. Rev. 429 (2023) 
   - read section III (pp. 460–73)
