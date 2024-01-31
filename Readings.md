@@ -91,7 +91,7 @@ For the full syllabus, [see here](Syllabus.pdf).
 
 ##### Deeper Rethinking
 - Ngozi Okidegbe, [_The Democratizing Potential of Algorithms?_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835370), 53 Conn. L. Rev. 739 (2022)
-  - read part III only (pp. 28–39)
+  - read part III only (pp. 767–77)
 - Chelsea Barabas, [_Beyond Bias: Re-imagining the Terms of “Ethical AI” in Criminal Law_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3377921), 12 Geo. J. L. & Mod. Crit. Race Persp. 83 (2020)
   - read Part VI (pp. 106–11) only
 
