@@ -8,22 +8,22 @@ For the full syllabus, [see here](Syllabus.pdf).
 
 1. Modeling and Automation
   - [Intro to Modeling and Automation (Jan. 18)](#1-intro-to-modeling-and-automation-jan-18)
-  - Automation Bias vs. Non-Automation Bias (Jan. 25)
-  - Fairness in Automated Systems (Feb. 1)
+  - [Automation Bias vs. Non-Automation Bias (Jan. 25)](#2-automation-bias-vs-non-automation-bias-jan-25)
+  - [Fairness in Automated Systems (Feb. 1)](#3-fairness-in-automated-systems-feb-1)
 2. Embodying Algorithms in Software
-  - How Software is Constructed, Protected, and Examined (Feb. 8)
-  - Putting Software On Trial (Feb. 15)
-  - Creating an Ecosystem of Trustworthy Software (Feb. 22)
+  - [How Software is Constructed, Protected, and Examined (Feb. 8)](#4-how-software-is-constructed-protected-and-examined-feb-8)
+  - [Putting Software On Trial (Feb. 15)](#5-putting-software-on-trial-feb-15)
+  - [Creating an Ecosystem of Trustworthy Software (Feb. 22)](#6-creating-an-ecosystem-of-trustworthy-software-feb-22)
 3. Layering in Secrecy
-  - Anonymization, Identification, and Formalized Notions of Privacy (Feb. 29)
-  - Bringing Formal Privacy to Public Administration (March 7)
-  - The Weaponization of Privacy (March 21)
+  - [Anonymization, Identification, and Formalized Notions of Privacy (Feb. 29)](#7-anonymization-identification-and-formalized-notions-of-privacy-feb-29)
+  - [Bringing Formal Privacy to Public Administration (March 7)](#8-bringing-formal-privacy-to-public-administration-march-7)
+  - [The Weaponization of Privacy (March 21)](#9-the-weaponization-of-privacy-march-21)
 4. What Changes with Size?
-  - Data Access as a Measurement of Power (March 28)
-  - Harms in Machine Learning (April 4)
-  - Correcting Harms in Machine Learning (April 11)
+  - [Data Access as a Measurement of Power (March 28)](#10-data-access-as-a-measurement-of-power-march-28)
+  - [Harms in Machine Learning (April 4)](#11-harms-in-machine-learning-april-4)
+  - [Correcting Harms in Machine Learning (April 11)](#12-correcting-harms-in-machine-learning-april-11)
 5. Law & Algorithms
-  - Law and Algorithms (April 18)
+  - [Law and Algorithms (April 18)](#13-law-and-algorithms-april-18)
 
 ### Modeling and Automation
 
@@ -125,6 +125,24 @@ For the full syllabus, [see here](Syllabus.pdf).
 ### Embodying Algorithms in Software
 
 #### 4. How Software is Constructed, Protected, and Examined (Feb. 8)
+
+##### How Software is Built, How Software Breaks
+- Carl E. Landwehr et al., [_A Taxonomy of Computer Program Security Flaws_](https://dl-acm-org.ezproxy.bu.edu/doi/pdf/10.1145/185403.185412), ACM Computing Surveys (1994)
+  - read section 2.1.3 (pp. 219–21) only
+- Ken Thompson, [_Reflections on Trusting Trust_](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf), Turing Award Lecture (1984)
+  - read the section “Moral” (p. 763) only
+ 
+##### How Should We Interpret Software?
+- James Grimmelmann, [_The Structure and Legal Protection of Computer Programs_](https://journalcrcl.org/crcl/article/view/19/13), J. of Cross-Disciplinary Reas. in Comp. L. (2023)
+  - read all
+ 
+##### How Software is Protected in Law
+- Sonia Katyal, [_The Paradox of Source Code Secrecy_](https://scholarship.law.cornell.edu/clr/vol104/iss5/2/), 104 Cornell L. Rev. 1183 (2019)
+  - read beginning of Part I through end of Part I(B) (pp. 1191–98) and Part I(D) (pp. 1207–10) 
+
+##### What Follows from Trade Secrecy
+- Rebecca Wexler, [_Life, Liberty, and Trade Secrets_](https://review.law.stanford.edu/wp-content/uploads/sites/3/2018/06/70-Stan.-L.-Rev.-1343.pdf), 70 Stan. L. Rev. 1343 (2018)
+  - read from beginning of Part I to end of Part I(C) (pp. 1356–71)
 
 #### 5. Putting Software On Trial (Feb. 15)
 
