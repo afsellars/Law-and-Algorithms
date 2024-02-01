@@ -6,6 +6,25 @@ Please note that the readings in this course are highly likely to change over th
 
 For the full syllabus, [see here](Syllabus.pdf).
 
+1. Modeling and Automation
+  - [Intro to Modeling and Automation (Jan. 18)](#1-intro-to-modeling-and-automation-jan-18)
+  - Automation Bias vs. Non-Automation Bias (Jan. 25)
+  - Fairness in Automated Systems (Feb. 1)
+2. Embodying Algorithms in Software
+  - How Software is Constructed, Protected, and Examined (Feb. 8)
+  - Putting Software On Trial (Feb. 15)
+  - Creating an Ecosystem of Trustworthy Software (Feb. 22)
+3. Layering in Secrecy
+  - Anonymization, Identification, and Formalized Notions of Privacy (Feb. 29)
+  - Bringing Formal Privacy to Public Administration (March 7)
+  - The Weaponization of Privacy (March 21)
+4. What Changes with Size?
+  - Data Access as a Measurement of Power (March 28)
+  - Harms in Machine Learning (April 4)
+  - Correcting Harms in Machine Learning (April 11)
+5. Law & Algorithms
+  - Law and Algorithms (April 18)
+
 ### Modeling and Automation
 
 #### 1. Intro to Modeling and Automation (Jan. 18)
