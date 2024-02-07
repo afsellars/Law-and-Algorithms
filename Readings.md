@@ -146,6 +146,30 @@ For the full syllabus, [see here](Syllabus.pdf).
 
 #### 5. Putting Software On Trial (Feb. 15)
 
+##### How Software is Examined in Litigation
+- Rediet Abebe, Moritz Hardt, Angela Jin, John Miller, Ludwig Schmidt, and Rebecca Wexler, [_Adversarial Scrutiny of Evidentiary Statistical Software_](https://arxiv.org/pdf/2206.09305.pdf), ACM FAccT (2022)
+  - read part 2 (pp. 3–5) only
+- Sergey Bratus, Ashlyn Lembree, and Anna Shubina, [“Software on the Witness Stand: What Should it Take for Us to Trust It?,”](https://link-springer-com.ezproxy.bu.edu/chapter/10.1007/978-3-642-13869-0_29) in _Trust and Trustworthy Computing_ (Alessandro Acquisti, Sean W. Smith, and Ahmad-Reza Sadeghi eds. 2010)
+  - read Section 4 (pp. 402–07) and Section 7 (pp. 409–15)
+
+##### Case Study: TrueAllele
+As a reminder, if you're new to readling legal opinoins you might want to review Orin Kerr, [_How to Read a Legal Opinion_](https://www.law.berkeley.edu/wp-content/uploads/2015/07/How-to-Read-A-Legal-Opinion.pdf), 11 Green Bag 2d 51 (2007).
+- [People v. Superior Court (Chubbs)](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/1.1-people-v-superior-court-of-los-angeles-county-chubbs-cal-ct-app-2015/) (Cal. Ct. App. Jan. 9, 2015)
+  - read excerpt
+- [State v. Pickett](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/1.2-state-v-pickett-246-a3d-279-nj-app-div-2021/), 246 A.3d 279 (N.J. App. Div. 2021)
+  - read excerpt
+- [People v. Wakefield](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/1.4-people-v-wakefield-ny-2022/), 195 N.E.3d 19 (N.Y. 2022)
+  - read excerpt
+
+##### The Limits of Transparency Through Adversarial Litigation
+- Order on Interpretation of Protective Order, [Houston Fed. of Teachers v. Houston Indep. Sch. Dist.](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/1.3-houston-federation-of-teachers-local-2415-v-houston-independent-school-district/) (S.D. Tex. March 11, 2016)
+  - read excerpt
+
+##### Optional
+- Andrea Roth, [_Machine Testimony_](https://www.yalelawjournal.org/pdf/RothFinal_c4o97on1.pdf), 126 Yale L.J. 1972 (2017)
+- [_NIST Publishes Review of DNA Mixture Interpretation Methods_](https://www.nist.gov/news-events/news/2021/06/nist-publishes-review-dna-mixture-interpretation-methods), NIST (June 9, 2021)
+- Rashida Richardson, Jason M. Schultz, and Vincent M. Sutherland, [Litigating Algorithms: 2019 Report](https://ainowinstitute.org/publication/litigating-algorithms-2019-u-s-report-2), AI Now Institute (2019)
+
 #### 6. Creating an Ecosystem of Trustworthy Software (Feb. 22)
 
 ### Layering in Secrecy
