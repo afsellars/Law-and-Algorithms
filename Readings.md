@@ -158,11 +158,11 @@ As a reminder, if you're new to readling legal opinoins you might want to review
   - read excerpt
 - [State v. Pickett](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/1.2-state-v-pickett-246-a3d-279-nj-app-div-2021/), 246 A.3d 279 (N.J. App. Div. 2021)
   - read excerpt
-- [People v. Wakefield](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/1.4-people-v-wakefield-ny-2022/), 195 N.E.3d 19 (N.Y. 2022)
+- [People v. Wakefield](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/1.3-people-v-wakefield-ny-2022/), 195 N.E.3d 19 (N.Y. 2022)
   - read excerpt
 
 ##### The Limits of Transparency Through Adversarial Litigation
-- Order on Interpretation of Protective Order, [Houston Fed. of Teachers v. Houston Indep. Sch. Dist.](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/1.3-houston-federation-of-teachers-local-2415-v-houston-independent-school-district/) (S.D. Tex. March 11, 2016)
+- Order on Interpretation of Protective Order, [Houston Fed. of Teachers v. Houston Indep. Sch. Dist.](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/1.4-houston-federation-of-teachers-local-2415-v-houston-independent-school-district/) (S.D. Tex. March 11, 2016)
   - read excerpt
 
 ##### Optional
