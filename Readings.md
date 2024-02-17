@@ -178,12 +178,12 @@ _Note: joining us this week is [Prof. Moon Duchin](https://math.tufts.edu/people
 - [_Racial Gerrymandering: Past Cases and the Supreme Court’s Upcoming Decision in_ Bethune-Hill II](https://crsreports.congress.gov/product/pdf/LSB/LSB10273), Cong. Research Service (March 14, 2019)
   - read “The Supreme Court’s Racial Gerrymandering Jurisprudence” only (pp. 1–2)
  
-##### _South Carolina NAACP v. Alexander_ (D.S.C. 2023)
-- Expert Report of Moon Duchin (April 11, 2022)
+##### Case Study: _South Carolina NAACP v. Alexander_ (D.S.C. 2023)
+- [Expert Report of Moon Duchin](DuchinReport.pdf) (April 11, 2022)
   - read sections 1–8 (pp. 1–27)
-- Defendants’ Motion In Limine to Exclude the Testimony of Moon Duchin (Sept. 2, 2022)
+- [Defendants’ Motion In Limine to Exclude the Testimony of Moon Duchin](DuchinLimine.pdf) (Sept. 2, 2022)
   - read all
-- Plaintiffs’ Opposition to Motion in Limine to Exclude the Testimony of Moon Duchin (Sept. 9, 2022)
+- [Plaintiffs’ Opposition to Motion in Limine to Exclude the Testimony of Moon Duchin](DuchinOpp.pdf) (Sept. 9, 2022)
   - read all
 - Amy Howe, [_Justices Question Finding that S.C. District Was Unconstitutional Racial Gerrymander_](https://www.scotusblog.com/2023/10/justices-question-finding-that-s-c-district-was-unconstitutional-racial-gerrymander/), SCOTUSblog (Oct. 11, 2023)
   - read all 
