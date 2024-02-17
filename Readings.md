@@ -172,6 +172,24 @@ As a reminder, if you're new to readling legal opinoins you might want to review
 
 #### 6. Creating an Ecosystem of Trustworthy Software (Feb. 22)
 
+_Note: joining us this week is [Prof. Moon Duchin](https://math.tufts.edu/people/faculty/moon-duchin), who will discuss her own experience as an expert witness in a case that reached all the way to the Supreme Court._
+ 
+##### Background on Racial Gerrymandering
+- [_Racial Gerrymandering: Past Cases and the Supreme Court’s Upcoming Decision in_ Bethune-Hill II](https://crsreports.congress.gov/product/pdf/LSB/LSB10273), Cong. Research Service (March 14, 2019) 
+  – read “The Supreme Court’s Racial Gerrymandering Jurisprudence” only (pp. 1–2)
+ 
+##### _South Carolina NAACP v. Alexander_ (D.S.C. 2023)
+- Expert Report of Moon Duchin (April 11, 2022) – read sections 1–8 (pp. 1–27)
+- Defendants’ Motion In Limine to Exclude the Testimony of Moon Duchin (Sept. 2, 2022) – read all
+- Plaintiffs’ Opposition to Motion in Limine to Exclude the Testimony of Moon Duchin (Sept. 9, 2022) – read all
+- Amy Howe, [_Justices Question Finding that S.C. District Was Unconstitutional Racial Gerrymander_](https://www.scotusblog.com/2023/10/justices-question-finding-that-s-c-district-was-unconstitutional-racial-gerrymander/), SCOTUSblog (Oct. 11, 2023) 
+ 
+##### Optional:
+Joshua Kroll, Joanna Huey, Solon Barocas, Edward Felten, Joel Reidenberg, David Robinson, & Harlan Yu, [_Accountable Algorithms_](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?referer=http://scholar.google.com/&httpsredir=1&article=9570&context=penn_law_review), 165 U. Penn. L. Rev. 633 (2017)
+Steven Bellovin, Matt Blaze, Susan Landau, & Brian Owsley, [_Seeking the Source: Criminal Defendants’ Constitutional Right to Source Code_](https://heinonline-org.ezproxy.bu.edu/HOL/Page?handle=hein.journals/isjlpsoc17&div=5&g_sent=1&casa_token=&collection=journals), 17 Ohio State Tech. L.J. 1 (2021) 
+Kathleen A. Creel, [_Transparency in Complex Computational Systems_](https://www-cambridge-org.ezproxy.bu.edu/core/journals/philosophy-of-science/article/transparency-in-complex-computational-systems/4DB040EB28172CADF5F2858B62D0952C), 87 Philosophy of Sci. 568 (2022) 
+Mike Annany & Kate Crawford, [_Seeing Without Knowing: Limitations of the Transparency Ideal and its Application to Algorithmic Accountability_](https://journals-sagepub-com.ezproxy.bu.edu/doi/full/10.1177/1461444816676645), 20 New Media & Society 973 (2016)
+
 ### Layering in Secrecy
 
 #### 7. Anonymization, Identification, and Formalized Notions of Privacy (Feb. 29)
