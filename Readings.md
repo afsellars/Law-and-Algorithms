@@ -198,7 +198,58 @@ _Note: joining us this week is [Prof. Moon Duchin](https://math.tufts.edu/people
 
 #### 7. Anonymization, Identification, and Formalized Notions of Privacy (Feb. 29)
 
+##### Encryption Fundamentals
+- [_What Should I Know About Encryption?_](https://ssd.eff.org/module/what-should-i-know-about-encryption), Electronic Frontier Foundation (last updated Nov. 24, 2018)
+  - read all
+
+##### What do lawyers mean when we say “privacy?”
+- Daniel Solove, [Understanding Privacy](https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2075&context=faculty_publications) (2008)
+  - read introduction to Chapter 1 (pp. 1–2); “The Concept of Privacy” (pp. 6–8); and “A New Theory of Privacy” (pp. 8–11)
+- María Angel & Ryan Calo, [_Distinguishing Privacy Law: A Critique of Privacy as Social Taxonomy_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347191), Colum. L. Rev. (forthcoming)
+  - read Introduction (pp. 2–5)
+
+##### Input privacy techniques in data science
+- [_What Is Secure Multi-Party Computation?_](https://www.youtube.com/watch?v=l25jcolQW6Q), Boston Univ. (Feb. 19, 2019)
+  - watch all
+- Amit Sahai, [_Computer Scientist Explains One Concept in 5 Levels of Difficulty: Zero-Knowledge Proofs_](https://www.youtube.com/watch?v=fOGdb1CTu5c), Wired (Jan. 18, 2022)
+  - watch from beginning to 11:55
+
+##### Output privacy techniques in data science
+- [_Protecting Privacy with Math_](https://www.youtube.com/watch?v=pT19VwBAqKA), Minute Physics (Sept. 12, 2019)
+  - watch all
+
+##### Putting legal and computational notions of privacy together
+- Kobbi Nissim, Aaron Bembenek, Alexandra Wood, Mark Bun, Marco Gaboardi, Urs Gasser, David R. O’Brien, Thomas Steinke, & Salil Vadhan, [_Bridging the Gap Between Computer Science and Legal Notions of Privacy_](https://jolt.law.harvard.edu/assets/articlePDFs/v31/02.-Article-Wood-7.21.pdf), 31 Harv. J. Law & Tech. 687 (2018)
+  - read Part III only (pp. 713-34) 
+
+##### Optional
+- Kenneth A. Bamberger, Ran Canetti, Shafi Goldwasser, Rebecca Wexler, & Evan Zimmerman, [_Verification Dilemmas, Law, and The Promise of Zero-Knowledge Proofs_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3781082), 37 Berkeley Tech. L. J. 101 (2022)
+
 #### 8. Bringing Formal Privacy to Public Administration (March 7)
+
+_Note: joining us this week is [Shlomi Hod](https://shlomi.hod.xyz/), who will discuss a recent project involving use of differential privacy in government data._
+
+##### Utility and Privacy in the Census
+- [13 U.S.C. § 141](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/3.1-13-usc-141/)
+  - read excerpt 
+- [13 U.S.C. § 9](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/3.2-13-usc-9/)
+  - read excerpt
+- [Pub. L. 105-119 § 209](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/3.3-pub-l-105119-title-ii-209-nov-26-1997/) (Nov. 26, 1997)
+  - read excerpt
+
+##### Why did the Census adopt differential privacy?
+- John M. Abowd et al., [The 2010 Census Confidentiality Protections Failed, Here’s How and Why](https://www2.census.gov/library/working-papers/2023/adrm/ces/CES-WP-23-63.pdf) (2023)
+- read Abstract and Part I (pp. 1-4)
+
+##### What happened when the Census adopted differential privacy?
+- danah boyd and Jayshree Sarathy, [_Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy_](https://s3.amazonaws.com/assets.pubpub.org/kl3rtzufbzg3aaalgsac9gmpwskst0z9.pdf), Harvard Data Science Review (2022)
+  - read the Introduction (pp. 3–5) and Sections 3–4 (pp. 8–17)
+- Miranda Christ, Sarah Radway, and Steve Bellovin, [_Differential Privacy and Swapping: Examining De-Identification’s Impact on Minority Representation and Privacy Preservation in the U.S. Census._](https://www.cs.columbia.edu/~mchrist/dp_swap_census.pdf), IEEE Symposium on Security and Privacy (2022)
+  - read parts 1 and 5 (pp. 1-2, 12)
+- Aloni Cohen, Moon Duchin, JN Matthews, and Bhushan Suwal, [_Census TopDown: The Impacts of Differential Privacy on Redistricting_](https://arxiv.org/pdf/2203.05085.pdf) (2022)
+  - read Sections 1, 2, and 8 (pp. 1-5 and 16)
+- Mike Scheider & Morgan Lee, [_Tribal Nations Face Less Accurate, More Limited 2020 Census Data Because of Privacy Methods_](https://apnews.com/article/native-americans-census-differential-privacy-tribes-f4fc2869a39a57485220cf2a0ebce18d), Associated Press (Sept. 9, 2023)
+  - read all
 
 #### 9. The Weaponization of Privacy (March 21)
 
