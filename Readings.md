@@ -239,7 +239,7 @@ _Note: joining us this week is [Shlomi Hod](https://shlomi.hod.xyz/), who will d
 
 ##### Why did the Census adopt differential privacy?
 - John M. Abowd et al., [The 2010 Census Confidentiality Protections Failed, Here’s How and Why](https://www2.census.gov/library/working-papers/2023/adrm/ces/CES-WP-23-63.pdf) (2023)
-- read Abstract and Part I (pp. 1-4)
+  - read Abstract and Part I (pp. 1-4)
 
 ##### What happened when the Census adopted differential privacy?
 - danah boyd and Jayshree Sarathy, [_Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy_](https://s3.amazonaws.com/assets.pubpub.org/kl3rtzufbzg3aaalgsac9gmpwskst0z9.pdf), Harvard Data Science Review (2022)
