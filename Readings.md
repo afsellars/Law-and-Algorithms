@@ -252,6 +252,25 @@ _Note: joining us this week is [Shlomi Hod](https://shlomi.hod.xyz/), who will d
   - read all
 
 #### 9. The Weaponization of Privacy (March 21)
+##### Who is Centered in Cryptography Policy?
+- Seny Kamara, [_Crypto For the People_](https://www.youtube.com/watch?v=Ygq9ci0GFhA) (2020)
+  - watch 7:11 to 21:14
+- Philip Rogaway, [_The Moral Character of Cryptographic Work_](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) (2015)
+  - read “Preamble” (p. 1), “Differential Privacy” (pp. 20–21)
+ 
+#####  What gets hidden in robust privacy?
+- Rory Van Loo, [_Privacy Pretexts_](https://live-cornell-law-review.pantheonsite.io/wp-content/uploads/2022/12/Van-Loo-article-PDF-for-online.pdf), 108 Cornell L. Rev. 1 (2022)
+  - read Introduction (pp. 2–12) and Part II (pp.22–38)
+
+##### Case Study: NYU Ad Observatory and Meta
+- Shannon Bond, [_NYU Researchers Were Studying Disinformation On Facebook. The Company Cut Them Off_](https://www.npr.org/2021/08/04/1024791053/facebook-boots-nyu-disinformation-researchers-off-its-platform-and-critics-cry-f), NPR (Aug, 4, 2021)
+  - read all
+- Mike Clark, [_Research Cannot Be the Justification for Compromising People’s Privacy_](https://about.fb.com/news/2021/08/research-cannot-be-the-justification-for-compromising-peoples-privacy/), Meta (Aug. 3, 2021)
+  - read all
+- Marshall Erwin, [_Why Facebook’s Claims About the Ad Observer are Wrong_](https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/), Mozilla (Aug. 4, 2021)
+  - read all
+- [Letter from Acting Director of the Bureau of Consumer Protection Samuel Levine to Facebook](https://www.ftc.gov/blog-posts/2021/08/letter-acting-director-bureau-consumer-protection-samuel-levine-facebook) (Aug. 5, 2021)
+  - read all
 
 ### What Changes with Size?
 
