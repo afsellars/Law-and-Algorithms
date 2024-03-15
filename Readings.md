@@ -258,7 +258,7 @@ _Note: joining us this week is [Shlomi Hod](https://shlomi.hod.xyz/), who will d
 - Philip Rogaway, [_The Moral Character of Cryptographic Work_](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) (2015)
   - read “Preamble” (p. 1), “Differential Privacy” (pp. 20–21)
  
-#####  What gets hidden in robust privacy?
+#####  What Gets Hidden in Robust Privacy?
 - Rory Van Loo, [_Privacy Pretexts_](https://live-cornell-law-review.pantheonsite.io/wp-content/uploads/2022/12/Van-Loo-article-PDF-for-online.pdf), 108 Cornell L. Rev. 1 (2022)
   - read Introduction (pp. 2–12) and Part II (pp.22–38)
 
