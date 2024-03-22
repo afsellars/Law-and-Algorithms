@@ -276,7 +276,7 @@ _Note: joining us this week is [Shlomi Hod](https://shlomi.hod.xyz/), who will d
 
 #### 10. Data Access as a Measurement of Power (March 28)
 
-_Note: joining us for part of the class this week is [Prof. Allison McDonald](https://www.bu.edu/cds-faculty/profile/allison-mcdonald/)._ 
+_Note: joining us for part of the class this week is [Prof. Allison McDonald](https://www.bu.edu/cds-faculty/profile/allison-mcdonald/), who will discusss some of her work addressing certain harmful outputs of generative AI._ 
 
 ##### Intro to Machine Learning
 - Noah Yonack, [_A Non-Technical Introduction to Machine Learning_](https://www.safegraph.com/blog/a-non-technical-introduction-to-machine-learning), SafeGraph (March 3, 2017)
