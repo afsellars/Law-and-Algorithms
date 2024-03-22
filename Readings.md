@@ -289,6 +289,10 @@ _Note: joining us this week is [Shlomi Hod](https://shlomi.hod.xyz/), who will d
 - Amy Kapczynski, [_The Law of Informational Capitalism_](https://www.yalelawjournal.org/pdf/KapczynskiBookReview_iqh4qxtw.pdf), 129 Yale L.J. 1460 (2020)
   - Read from intro to Part III to end of III(A) (pp. 1496–1508)
 
+##### Optional
+- Rianna Pfefferkorn, [_Addressing Computer-Generated Child Sex Abuse Imagery: Legal Framework and Policy Implications_](https://www.lawfaremedia.org/article/addressing-computer-generated-child-sex-abuse-imagery-legal-framework-and-policy-implications), Lawfare (Feb. 5, 2024)
+  - Please be aware that this article discusses CSAM in some detail.
+
 #### 11. Harms in Machine Learning (April 4)
 
 #### 12. Correcting Harms in Machine Learning (April 11)
