@@ -275,6 +275,9 @@ _Note: joining us this week is [Shlomi Hod](https://shlomi.hod.xyz/), who will d
 ### What Changes with Size?
 
 #### 10. Data Access as a Measurement of Power (March 28)
+
+_Note: joining us for part of the class this week is [Prof. Allison McDonald](https://www.bu.edu/cds-faculty/profile/allison-mcdonald/)._ 
+
 ##### Intro to Machine Learning
 - Noah Yonack, [_A Non-Technical Introduction to Machine Learning_](https://www.safegraph.com/blog/a-non-technical-introduction-to-machine-learning), SafeGraph (March 3, 2017)
   - Read from beginning to end of “A framework for understanding ML” stopping before “A common regression model: simple linear regression”
