@@ -275,6 +275,19 @@ _Note: joining us this week is [Shlomi Hod](https://shlomi.hod.xyz/), who will d
 ### What Changes with Size?
 
 #### 10. Data Access as a Measurement of Power (March 28)
+##### Intro to Machine Learning
+- Noah Yonack, [_A Non-Technical Introduction to Machine Learning_](https://www.safegraph.com/blog/a-non-technical-introduction-to-machine-learning), SafeGraph (March 3, 2017)
+  - Read from beginning to end of “A framework for understanding ML” stopping before “A common regression model: simple linear regression”
+
+##### How Data Informs AI
+- Solon Barocas & Andrew Selbst, [_Big Data’s Disparate Impact_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899), 104 Cal. L. Rev. 671 (2016)
+  - read part I only (pp. 677–92)
+- Emily Bender, Timnit Gebru, Angelina McMillan-Major, Margaret Mitchell, [_On the Dangers of Stochastic Parrots: Can Large Language Models be Too Big?_ 🦜](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922), ACM Conf. on Fairness, Accountability, and Transparency (2021)
+  - Read sections 1, 4, and 6-8. (pp. 610–11, 613–15, and 616–19)
+
+##### Deeper Thinking About the Legal Environment of Data
+- Amy Kapczynski, [_The Law of Informational Capitalism_](https://www.yalelawjournal.org/pdf/KapczynskiBookReview_iqh4qxtw.pdf), 129 Yale L.J. 1460 (2020)
+  - Read from intro to Part III to end of III(A) (pp. 1496–1508)
 
 #### 11. Harms in Machine Learning (April 4)
 
