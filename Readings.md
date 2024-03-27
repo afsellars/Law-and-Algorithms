@@ -284,7 +284,7 @@ _Note: joining us for part of the class this week is [Prof. Allison McDonald](ht
 
 ##### How Data Informs AI
 - Solon Barocas & Andrew Selbst, [_Big Data’s Disparate Impact_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899), 104 Cal. L. Rev. 671 (2016)
-  - read part I only (pp. 677–92)
+  - read part I only (pp. 677–93)
 - Emily Bender, Timnit Gebru, Angelina McMillan-Major, Margaret Mitchell, [_On the Dangers of Stochastic Parrots: Can Large Language Models be Too Big?_ 🦜](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922), ACM Conf. on Fairness, Accountability, and Transparency (2021)
   - Read sections 1, 4, and 6-8. (pp. 610–11, 613–15, and 616–19)
 
