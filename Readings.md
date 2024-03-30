@@ -293,7 +293,7 @@ _Note: joining us for part of the class this week is [Prof. Allison McDonald](ht
   - Read from intro to Part III to end of III(A) (pp. 1496–1508)
 
 ##### Optional
-- Rianna Pfefferkorn, [_Addressing Computer-Generated Child Sex Abuse Imagery: Legal Framework and Policy Implications_](https://www.lawfaremedia.org/article/addressing-computer-generated-child-sex-abuse-imagery-legal-framework-and-policy-implications), Lawfare (Feb. 5, 2024)
+- Riana Pfefferkorn, [_Addressing Computer-Generated Child Sex Abuse Imagery: Legal Framework and Policy Implications_](https://www.lawfaremedia.org/article/addressing-computer-generated-child-sex-abuse-imagery-legal-framework-and-policy-implications), Lawfare (Feb. 5, 2024)
   - Please be aware that this article discusses CSAM in some detail.
 
 #### 11. Harms in Machine Learning (April 4)
