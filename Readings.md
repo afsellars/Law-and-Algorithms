@@ -298,6 +298,27 @@ _Note: joining us for part of the class this week is [Prof. Allison McDonald](ht
 
 #### 11. Harms in Machine Learning (April 4)
 
+##### How Bias Enters AI
+- Ruha Benjamin, Race After Technology (2019)
+  - read “Raising Robots,” (pp. 59–63), circulated separately.
+- Zaid Khan & Yun Fu, One Label, [_One Billion Faces: Usage and Consistency of Racial Categories in Computer Vision_](https://arxiv.org/pdf/2102.02320.pdf), ACM Conf. on Fairness, Accountability, and Transparency (2021)
+  - read Sections 1, 3, 5.2, and 6
+- Muhammad Ali, Piotr Sapiezynski, Miranda Bogen, Aleksandra Korolova, Alan Mislove, Aaron Rieke, [_Discrimination Through Optimization: How Facebook’s Ad Delivery Can Lead to Skewed Outcomes_](https://arxiv.org/pdf/1904.02095.pdf), ACM Conf. on Human-Computer Interaction (2019)
+  - read Section 1 and the “Policy implications” section on pgs. 14-15
+
+##### Intro to Anti-Discrimination Law
+- [The Civil Rights Act of 1964: An Overview](https://crsreports.congress.gov/product/pdf/R/R46534), Cong. Research Serv. (2020)
+  - read section on “Prohibitions Against Intentional and Disparate Impact Discrimination” under Title VII, stopping before “Unlawful Retaliation” (pp. 66–77)
+ 
+##### Applicaiton to Algorithmic Systems
+- [Louis v. Saferent Solutions, LLC](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/4.4-louis-v-saferent-solutions-llc/), --- F. Supp. 3d --- (D. Mass. 2023)
+  - Read excerpt
+
+##### Optional
+- Colin Lecher & Maddy Varner, [_L.A.’s Scoring System for Subsidized Housing Gives Black and Latino People Experiencing Homelessness Lower Priority Scores_](https://themarkup.org/investigation/2023/02/28/l-a-s-scoring-system-for-subsidized-housing-gives-black-and-latino-people-experiencing-homelessness-lower-priority-scores), The Markup (Feb. 28, 2023)
+- Emily Tucker, [_Artifice and Intelligence_](https://medium.com/center-on-privacy-technology/artifice-and-intelligence%C2%B9-f00da128d3cd), Medium (March 8, 2022)
+- Nancy Gertner, [_Loser’s Rules_](https://nancygertner.com/sites/default/files/Losers%27%20Rules.pdf), 122 Yale L.J. Online 109 (2012)
+
 #### 12. Correcting Harms in Machine Learning (April 11)
 
 ### Law and Algorithms
