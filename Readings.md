@@ -321,6 +321,27 @@ _Note: joining us for part of the class this week is [Prof. Allison McDonald](ht
 
 #### 12. Correcting Harms in Machine Learning (April 11)
 
+##### Tensions in Disparate Impact and Disparate Treatment
+- [Ricci v. DeStephano](https://opencasebook.org/casebooks/2606-law-and-algorithms/resources/4.3-ricci-v-destefano/), 557 U.S. 557 (2009)
+  - read excerpt
+- Pauline Kim, [_Race-Aware Algorithms: Fairness, Nondiscrimination and Affirmative Action_](https://www.californialawreview.org/print/race-aware-algorithms-fairness-nondiscrimination-and-affirmative-action), 110 Cal. L. Rev. 1539 (2022)
+  - read Part IV (pp. 1574–86)
+
+##### Technical Adjustments to Models
+- Manish Raghavan, Solon Barocas, Jon Kleinberg, and Karen Levy, [_Mitigating Bias in Algorithmic Hiring: Evaluating Claims and Practices_](https://arxiv.org/pdf/1906.09208.pdf), FAT* (2020)
+  - read parts 5 and 6 only (pp. 13–17)
+- Michael Kim, Amirata Ghorbani, & James Zou, [_Multiaccuracy: Black-Box Post-Processing for Fairness in Classification_](https://dl-acm-org.ezproxy.bu.edu/doi/abs/10.1145/3306618.3314287), 2019 AIES 247 (2019)
+- read parts 1 and 4 (pp. 247–48, 250–51)
+
+##### New Ways Forward
+- Emily Black, John Logan Koepke, Pauline Kim, Solon Barocas, and Mingwei Hsu, [_Less Discriminatory Algorithms_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590481), 113 Geo. L.J. (forthcoming 2024).
+  - Read part 1; the intro to part 2, 2(a), and 2(c); and part 4 (pp. 3–11, 13–15, and 26–34)
+
+##### Optional
+Christopher Molnar, [Interpretable Machine Learning: A Guide for Making Black Box Modells Explainable](https://christophm.github.io/interpretable-ml-book/) (2023)
+
 ### Law and Algorithms
 
 #### 13. Law and Algorithms (April 18)
+
+_Note: joining us this week is [Prof. Ngozi Okidegbe](https://www.bu.edu/law/profile/ngozi-okidegbe/), the Moorman-Simon Interdisciplinary Career Development Associate Professor of Law and Assistant Professor of Computing & Data Sciences at Boston University. Prof. Okidegbe will be discussing the draft of a new article, which will be circulated via Teams as this week's required reading._
