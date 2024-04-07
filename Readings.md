@@ -331,7 +331,7 @@ _Note: joining us for part of the class this week is [Prof. Allison McDonald](ht
 - Manish Raghavan, Solon Barocas, Jon Kleinberg, and Karen Levy, [_Mitigating Bias in Algorithmic Hiring: Evaluating Claims and Practices_](https://arxiv.org/pdf/1906.09208.pdf), FAT* (2020)
   - read parts 5 and 6 only (pp. 13–17)
 - Michael Kim, Amirata Ghorbani, & James Zou, [_Multiaccuracy: Black-Box Post-Processing for Fairness in Classification_](https://dl-acm-org.ezproxy.bu.edu/doi/abs/10.1145/3306618.3314287), 2019 AIES 247 (2019)
-- read parts 1 and 4 (pp. 247–48, 250–51)
+  - read parts 1 and 4 (pp. 247–48, 250–51)
 
 ##### New Ways Forward
 - Emily Black, John Logan Koepke, Pauline Kim, Solon Barocas, and Mingwei Hsu, [_Less Discriminatory Algorithms_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590481), 113 Geo. L.J. (forthcoming 2024).
