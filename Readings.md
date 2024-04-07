@@ -338,7 +338,7 @@ _Note: joining us for part of the class this week is [Prof. Allison McDonald](ht
   - Read part 1; the intro to part 2, 2(a), and 2(c); and part 4 (pp. 3–11, 13–15, and 26–34)
 
 ##### Optional
-- Christopher Molnar, [Interpretable Machine Learning: A Guide for Making Black Box Modells Explainable](https://christophm.github.io/interpretable-ml-book/) (2023)
+- Christopher Molnar, [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) (2023)
 
 ### Law and Algorithms
 
